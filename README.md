@@ -55,6 +55,7 @@ Icon was made in 5 minutes in [Paint.net](https://www.getpaint.net/)
 
 # Soy de Boca
 [Descargar para Windows](https://github.com/tomexlol/simplevideocombiner/releases/download/v1.0.0/svc.exe)
+
 Un combinador de videos simple.
 
 Cuando era coach de League of Legends hacía videos compilados de 10-15 minutos de conceptos del juego para mis jugadores. Hice esta aplicación para facilitar ese flujo de trabajo.
