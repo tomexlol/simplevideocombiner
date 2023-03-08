@@ -1,5 +1,6 @@
 # SimpleVideoCombiner
 (si sos de boca [clickea aca](#soy-de-boca))
+
 A simple video concatenator / video merger.
 
 As a League of Legends coach I often made 10-15 minute compilation videos of certain game concepts for my players. I made this app to facilitate that process.
