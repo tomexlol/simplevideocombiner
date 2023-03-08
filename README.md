@@ -2,7 +2,7 @@
 
 A simple video concatenator / video merger.
 
-As a League of Legends coach I often made 10-15 minute compilation videos of certain game concepts for my players. I made this app to facilitate that workflow.
+As a League of Legends coach I often made 10-15 minute compilation videos of certain game concepts for my players. I made this app to facilitate that process.
 
 Expected workflow:
 * Record your clips using OBS or whatever you prefer. Optional: Name them something descriptive.
