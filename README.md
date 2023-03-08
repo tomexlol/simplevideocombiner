@@ -1,5 +1,5 @@
 # SimpleVideoCombiner
-
+(si sos de boca [clickea aca](#soy-de-boca))
 A simple video concatenator / video merger.
 
 As a League of Legends coach I often made 10-15 minute compilation videos of certain game concepts for my players. I made this app to facilitate that process.
@@ -8,7 +8,7 @@ As a League of Legends coach I often made 10-15 minute compilation videos of cer
 
 [Download for Linux](https://github.com/tomexlol/simplevideocombiner/releases/download/v1.0.0-linux/svc)
 
-si sos de boca [clickea aca](#soy-de-boca)
+
 
 **IMPORTANT**: For "Add Clip Number" and "Add File Name" options to work on Windows, you need to install [ImageMagick](https://imagemagick.org/archive/binaries/ImageMagick-7.1.0-62-Q16-HDRI-x64-dll.exe) on the default directory - this file needs to be present here: C:\Program Files\ImageMagick-7.1.0-Q16-HDRI\magick.exe
 
