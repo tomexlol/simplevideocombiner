@@ -1,4 +1,5 @@
 # SimpleVideoCombiner
+si sos de boca [clickea aca](#soy-de-boca)
 
 A simple video concatenator / video merger.
 
@@ -48,7 +49,7 @@ The GUI was made in [Qt Designer](https://doc.qt.io/qt-6/qtdesigner-manual.html)
 
 Icon was made in 5 minutes in [Paint.net](https://www.getpaint.net/)
 
-# Soy de Boca, ayuda!
+# Soy de Boca
 
 Un combinador de videos simple.
 
