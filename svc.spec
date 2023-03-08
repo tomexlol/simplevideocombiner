@@ -19,7 +19,8 @@ a = Analysis(
     cipher=block_cipher,
     noarchive=False,
 )
-a.datas += Tree("C:\\Users\\bomes\\AppData\\Local\\Programs\\Python\Python311\\Lib\\site-packages\\moviepy", prefix='moviepy')
+#a.datas += Tree("C:\\Users\\bomes\\AppData\\Local\\Programs\\Python\Python311\\Lib\\site-packages\\moviepy", prefix='moviepy')
+a.datas += Tree("/usr/local/lib/python3.10/dist-packages/moviepy", prefix='moviepy')
 pyz = PYZ(a.pure, a.zipped_data, cipher=block_cipher)
 
 exe = EXE(
