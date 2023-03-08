@@ -1,6 +1,6 @@
 # SimpleVideoCombiner
 [Download for Windows](https://github.com/tomexlol/simplevideocombiner/releases/download/v1.0.0/svc.exe)
-
+[Download for Linux](https://github.com/tomexlol/simplevideocombiner/releases/download/v1.0.0-linux/svc)
 
 si sos de boca [clickea aca](#soy-de-boca)
 
@@ -20,11 +20,11 @@ Expected workflow:
 ## How to Install
 Windows: [Download the .exe](https://github.com/tomexlol/simplevideocombiner/releases/download/v1.0.0/svc.exe) and run it, no install needed.
 
-**IMPORTANT**: For "Add Clip Number" and "Add File Name" options to work, you need to install [ImageMagick](https://imagemagick.org/archive/binaries/ImageMagick-7.1.0-62-Q16-HDRI-x64-dll.exe) on the default directory - this file needs to be present here: C:\Program Files\ImageMagick-7.1.0-Q16-HDRI\magick.exe
+**IMPORTANT**: For "Add Clip Number" and "Add File Name" options to work on Windows, you need to install [ImageMagick](https://imagemagick.org/archive/binaries/ImageMagick-7.1.0-62-Q16-HDRI-x64-dll.exe) on the default directory - this file needs to be present here: C:\Program Files\ImageMagick-7.1.0-Q16-HDRI\magick.exe
 
 If you dont have this the program will just crash if you check these options. Leave everything unchecked.
 
-Linux: Download the executable and run it, no install needed. You can run svc.py from this source if you don't trust me.
+Linux: [Download the executable](https://github.com/tomexlol/simplevideocombiner/releases/download/v1.0.0-linux/svc) and run it, no install needed. You can run svc.py from this source if you don't trust me.
 
 
 
@@ -72,7 +72,9 @@ Flujo de trabajo esperado:
 ## Cómo Instalar
 Windows: [Bajar el .exe](https://github.com/tomexlol/simplevideocombiner/releases/download/v1.0.0/svc.exe) y correrlo, no requiere instalación.
 
-**IMPORTANTE**: Para que funcionen las opciones de "Add Clip Number" y "Add File Name", debes instalar [ImageMagick](https://imagemagick.org/archive/binaries/ImageMagick-7.1.0-62-Q16-HDRI-x64-dll.exe) en la carpeta predeterminada - el archivo magick.exe debe estar presente en: C:\Program Files\ImageMagick-7.1.0-Q16-HDRI\magick.exe. Si tu Windows está en español probablemente te de problemas, creá esa carpeta y poné el ImageMagick ahí y debería funcionar. Sino deja estas dos opciones sin tildar. Ya lo voy a arreglar!
+**IMPORTANTE**: Para que funcionen las opciones de "Add Clip Number" y "Add File Name" en Windows, debes instalar [ImageMagick](https://imagemagick.org/archive/binaries/ImageMagick-7.1.0-62-Q16-HDRI-x64-dll.exe) en la carpeta predeterminada - el archivo magick.exe debe estar presente en: C:\Program Files\ImageMagick-7.1.0-Q16-HDRI\magick.exe. Si tu Windows está en español probablemente te de problemas, creá esa carpeta y poné el ImageMagick ahí y debería funcionar. Sino deja estas dos opciones sin tildar. Ya lo voy a arreglar!
+
+Linux: [Bajar el ejecutable](https://github.com/tomexlol/simplevideocombiner/releases/download/v1.0.0-linux/svc) y correrlo, no requiere instalación. O instalar las dependencias y correr svc.py si no confias en mi paquete.
 
 
 ### Opciones - Explicaciones
