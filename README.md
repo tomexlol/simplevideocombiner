@@ -13,7 +13,7 @@ Expected workflow:
 * Click Generate Video and wait patiently.
 
 ## How to Install
-Windows: Download the .exe and run it.
+Windows: Download the .exe and run it, no install needed.
 
 **IMPORTANT**: For "Add Clip Number" and "Add File Name" options to work, you need to install [ImageMagick](https://imagemagick.org/archive/binaries/ImageMagick-7.1.0-62-Q16-HDRI-x64-dll.exe) on the default directory - this file needs to be present here: C:\Program Files\ImageMagick-7.1.0-Q16-HDRI\magick.exe
 
@@ -37,7 +37,7 @@ Linux: Download the executable and run it.
 
 
 
-### How it Works
+# How it Works
 
 SVC is written 100% in Python. Coming soon: a blogpost at tomexlol.com breaking down the sourcecode.
 
@@ -65,7 +65,7 @@ Flujo de trabajo esperado:
 
 
 ## Cómo Instalar
-Windows: bajar el .exe y correrlo
+Windows: bajar el .exe y correrlo, no requiere instalación.
 
 **IMPORTANTE**: Para que funcionen las opciones de "Add Clip Number" y "Add File Name", debes instalar [ImageMagick](https://imagemagick.org/archive/binaries/ImageMagick-7.1.0-62-Q16-HDRI-x64-dll.exe) en la carpeta predeterminada - el archivo magick.exe debe estar presente en: C:\Program Files\ImageMagick-7.1.0-Q16-HDRI\magick.exe. Si tu Windows está en español probablemente te de problemas, creá esa carpeta y poné el ImageMagick ahí y debería funcionar. Sino deja estas dos opciones sin tildar. Ya lo voy a arreglar!
 
