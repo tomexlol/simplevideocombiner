@@ -19,8 +19,7 @@ Windows: Download the .exe and run it, no install needed.
 
 If you dont have this the program will just crash if you check these options. Leave everything unchecked.
 
-Linux: Download the executable and run it.
-	or download all the source files and run "pyinstaller svc.spec" to package it (or just "python svc.py" works as well).
+Linux: Download the executable and run it, no install needed. You can run svc.py from this source if you don't trust me.
 
 
 
