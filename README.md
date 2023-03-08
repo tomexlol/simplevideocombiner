@@ -21,9 +21,10 @@ Linux: Download the executable and run it.
 
 **Add File Name**: Adds the file name to the top left of each clip.
 
+![](https://www.tomexlol.com/assets/images/samplesettings)
+
 **Generate timestamps.txt**: Generates a Youtube description friendly .txt file with the start time of each clip.
 
-()[https://www.tomexlol.com/assets/images/samplesettings]
 
 
 ### BOCA
