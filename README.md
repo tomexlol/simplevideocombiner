@@ -1,5 +1,6 @@
 # SimpleVideoCombiner
 [Download for Windows](https://github.com/tomexlol/simplevideocombiner/releases/download/v1.0.0/svc.exe)
+
 [Download for Linux](https://github.com/tomexlol/simplevideocombiner/releases/download/v1.0.0-linux/svc)
 
 si sos de boca [clickea aca](#soy-de-boca)
@@ -55,6 +56,9 @@ Icon was made in 5 minutes in [Paint.net](https://www.getpaint.net/)
 
 # Soy de Boca
 [Descargar para Windows](https://github.com/tomexlol/simplevideocombiner/releases/download/v1.0.0/svc.exe)
+
+[Descargar para Linux](https://github.com/tomexlol/simplevideocombiner/releases/download/v1.0.0-linux/svc)
+
 
 Un combinador de videos simple.
 
