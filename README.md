@@ -9,13 +9,11 @@ As a League of Legends coach I often made 10-15 minute compilation videos of cer
 
 [Download for Linux](https://github.com/tomexlol/simplevideocombiner/releases/download/v1.0.0-linux/svc)
 
-
-
+***
 **IMPORTANT**: For "Add Clip Number" and "Add File Name" options to work on Windows, you need to install [ImageMagick](https://imagemagick.org/archive/binaries/ImageMagick-7.1.0-62-Q16-HDRI-x64-dll.exe) on the default directory - this file needs to be present here: C:\Program Files\ImageMagick-7.1.0-Q16-HDRI\magick.exe
 
-If you dont have this the program will just crash if you check these options. Leave everything unchecked.
-
-
+If you dont have this the program will just crash (for now) if you check these options.
+***
 
 Expected workflow:
 * Record your clips using OBS or whatever you prefer. Optional: Name them something descriptive.
@@ -57,15 +55,17 @@ The GUI was made in [Qt Designer](https://doc.qt.io/qt-6/qtdesigner-manual.html)
 Icon was made in 5 minutes in [Paint.net](https://www.getpaint.net/)
 
 # Soy de Boca
-[Descargar para Windows](https://github.com/tomexlol/simplevideocombiner/releases/download/v1.0.0/svc.exe)
-
-[Descargar para Linux](https://github.com/tomexlol/simplevideocombiner/releases/download/v1.0.0-linux/svc)
-
-
 Un combinador de videos simple.
 
 Cuando era coach de League of Legends hacía videos compilados de 10-15 minutos de conceptos del juego para mis jugadores. Hice esta aplicación para facilitar ese flujo de trabajo.
 
+[Descargar para Windows](https://github.com/tomexlol/simplevideocombiner/releases/download/v1.0.0/svc.exe)
+
+[Descargar para Linux](https://github.com/tomexlol/simplevideocombiner/releases/download/v1.0.0-linux/svc)
+
+***
+**IMPORTANTE**: Para que funcionen las opciones de "Add Clip Number" y "Add File Name" en Windows, debes instalar [ImageMagick](https://imagemagick.org/archive/binaries/ImageMagick-7.1.0-62-Q16-HDRI-x64-dll.exe) en la carpeta predeterminada - el archivo magick.exe debe estar presente en: C:\Program Files\ImageMagick-7.1.0-Q16-HDRI\magick.exe. Si tu Windows está en español probablemente te de problemas, creá esa carpeta y poné el ImageMagick ahí y debería funcionar. Sino deja estas dos opciones sin tildar. Ya lo voy a arreglar!
+***
 
 Flujo de trabajo esperado:
 * Graba tus clips usando OBS o lo que prefieras. Opcional: poneles nombres descriptivos.
@@ -77,8 +77,6 @@ Flujo de trabajo esperado:
 
 ## Cómo Instalar
 Windows: [Bajar el .exe](https://github.com/tomexlol/simplevideocombiner/releases/download/v1.0.0/svc.exe) y correrlo, no requiere instalación.
-
-**IMPORTANTE**: Para que funcionen las opciones de "Add Clip Number" y "Add File Name" en Windows, debes instalar [ImageMagick](https://imagemagick.org/archive/binaries/ImageMagick-7.1.0-62-Q16-HDRI-x64-dll.exe) en la carpeta predeterminada - el archivo magick.exe debe estar presente en: C:\Program Files\ImageMagick-7.1.0-Q16-HDRI\magick.exe. Si tu Windows está en español probablemente te de problemas, creá esa carpeta y poné el ImageMagick ahí y debería funcionar. Sino deja estas dos opciones sin tildar. Ya lo voy a arreglar!
 
 Linux: [Bajar el ejecutable](https://github.com/tomexlol/simplevideocombiner/releases/download/v1.0.0-linux/svc) y correrlo, no requiere instalación. O instalar las dependencias y correr svc.py si no confias en mi paquete.
 
