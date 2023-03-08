@@ -22,14 +22,8 @@ Expected workflow:
 * Check the settings you want. Adding clip number/name is very useful for visual clarity, otherwise transitions without editing can be a bit jarring.
 * Click Generate Video and wait patiently.
 
-## How to Install
-Windows: [Download the .exe](https://github.com/tomexlol/simplevideocombiner/releases/download/v1.0.0/svc.exe) and run it, no install needed.
 
-Linux: [Download the executable](https://github.com/tomexlol/simplevideocombiner/releases/download/v1.0.0-linux/svc) and run it, no install needed. You can run svc.py from this source if you don't trust me.
-
-
-
-### Settings Explanations
+## Settings Explanations
 
 **Add Clip Number**: Adds "Clip 1", "Clip 2", etc to the top left of each clip for 2 seconds at the start.
 
@@ -75,13 +69,7 @@ Flujo de trabajo esperado:
 * Clickeá Generate Video y esperá pacientemente.
 
 
-## Cómo Instalar
-Windows: [Bajar el .exe](https://github.com/tomexlol/simplevideocombiner/releases/download/v1.0.0/svc.exe) y correrlo, no requiere instalación.
-
-Linux: [Bajar el ejecutable](https://github.com/tomexlol/simplevideocombiner/releases/download/v1.0.0-linux/svc) y correrlo, no requiere instalación. O instalar las dependencias y correr svc.py si no confias en mi paquete.
-
-
-### Opciones - Explicaciones
+## Opciones - Explicaciones
 
 **Add Clip Number**: Agrega "Clip 1", "Clip 2", etc arriba a la izquierda por 2 segundos al comienzo de cada clip.
 
